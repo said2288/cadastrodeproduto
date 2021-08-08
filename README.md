@@ -24,7 +24,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/said2288/cod3r.git
+$ git clone https://github.com/said2288/cadastrodeproduto.git
 ```
 
 ### 🛠 Tecnologias - Linguagem
